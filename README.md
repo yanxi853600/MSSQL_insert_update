@@ -1,4 +1,4 @@
-SGA: Operation in python with SQL Server
+Operation in python with SQL Server
 ===
 Insert or Update database in a flexable way
 
@@ -6,7 +6,7 @@ Insert or Update database in a flexable way
 
 
 
-# SGA: SQL Server_python
+# SQL Server_python
 --------------------------------
 
 ![alt text](https://github.com/yanxi853600/MSSQL_insert_update/blob/master/mssql_process.png)
