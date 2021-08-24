@@ -84,6 +84,6 @@ class Execute:
 
 if __name__ == '__main__': 
     # sql_connect(Driver, SERVER, DATABASE)
-    Execute.sql_connect('ODBC Driver 17 for SQL Server','.\SQLEXPRESS','TWM9')
+    Execute.sql_connect('ODBC Driver 17 for SQL Server','.\SQLEXPRESS','TW')
     # insert_update(TableName, pk, json_txt)
     Execute.insert_update('[TW].[dbo].[AI_Work_Final]', 'DateTime', {"Camera_ID":"6de2b29e-a7d5","DateTime":"2021-06-18 16:22:00","Status":5}) 
