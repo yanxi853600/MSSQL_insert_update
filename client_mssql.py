@@ -1,4 +1,4 @@
-from SGA_msSQL_finish import Execute
+from msSQL_finish import Execute
 
 # sql_connect(Driver, SERVER, DATABASE)
 Execute.sql_connect('ODBC Driver 17 for SQL Server','.\SQLEXPRESS','TW')
